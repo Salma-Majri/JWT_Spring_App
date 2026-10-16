@@ -132,7 +132,7 @@ L'application démarre sur http://localhost:8080.
 
 ```json
 {
-    "email": "salma@test.com",
+    "email": "salma@gmail.com",
     "password": "123456"
 }
 ```
@@ -151,7 +151,7 @@ L'application démarre sur http://localhost:8080.
 
 ```json
 {
-    "email": "salma@test.com",
+    "email": "salma@gmail.com",
     "password": "123456"
 }
 ```
@@ -194,7 +194,7 @@ L'application démarre sur http://localhost:8080.
 |---|---|
 | Authorization | `Bearer <votre_token>` |
 
-**Réponse attendue :** `200 OK` — Utilisateur connecte : salma@test.com.
+**Réponse attendue :** `200 OK` — Utilisateur connecte : salma@gmail.com.
 
 ![Profil de l'utilisateur connecté](./screenshots/4.png)
 
