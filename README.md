@@ -92,7 +92,7 @@ spring.h2.console.enabled=true
 spring.h2.console.path=/h2-console
 
 # JWT
-jwt.secret=V6hpcy1pcy1hLXZlcNktbG9uZ3ZWM2VhWmc1cWQ3QtlZGtby0yMDI2
+jwt.secret=V6hpcy1pcy1hLXZlcNktbG9uZ3************************
 jwt.expiration=3600000
 ```
 
